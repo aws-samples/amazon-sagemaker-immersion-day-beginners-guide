@@ -33,3 +33,7 @@ Selena Tabbara
 Michael Wallner  
 Sanjay Ashok  
 Mateusz Zaremba
+
+## Helpful blogs to understand how to move from local Jupyter environment to Amazon SageMaker
+- [Move from local jupyter to Amazon SageMaker — Part 1](https://medium.com/@pandey.vikesh/move-from-local-jupyter-to-amazon-sagemaker-part-1-7ef14af0fe9d)
+- [Move from local jupyter to Amazon SageMaker — Part 2](https://medium.com/@pandey.vikesh/move-from-local-jupyter-to-amazon-sagemaker-part-2-f827832d4b9d)
